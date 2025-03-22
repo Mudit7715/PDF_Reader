@@ -44,7 +44,7 @@ def main():
     st.subheader("Your personal assistant")
 
     # Read PDF files
-    pdf_dir = "C:/Users/gupta/OneDrive/Desktop/LLMS/random builds/classment_assignment"
+    pdf_dir = "."
     pdf_texts = read_pdf_files(pdf_dir)
     
     documents = []
