@@ -1,0 +1,19 @@
+Hi my name is mudit and i would love to interact with the pdf reader.
+
+Nice to meet you, Mudit! I'm happy to help you explore 
+the world of PDF readers. What kind of interaction are 
+you looking for? Do you want to:
+
+1. **Test a specific PDF file** with me?
+2. **Learn about different PDF reading features**, 
+such as annotations, bookmarks, or search 
+functionality?
+3. **Get recommendations for popular PDF reader 
+software**, like Adobe Acrobat, Foxit Reader, or 
+SumatraPDF?
+4. **Discuss advanced topics**, like OCR (Optical 
+Character Recognition), PDF editing, or security 
+settings?
+
+Feel free to pick any of these options or suggest 
+something else that's on your mind!
